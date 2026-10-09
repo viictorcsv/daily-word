@@ -2,7 +2,7 @@
 
 Este projeto realiza uma análise exploratória de dados em um conjunto de tweets sobre o popular jogo de palavras Wordle. O script utiliza Python e bibliotecas de ciência de dados como `pandas`, `matplotlib` e `seaborn` para processar, analisar e visualizar padrões de jogo extraídos diretamente do texto dos tweets.
 
-## 📊 Visão Geral
+## Visão Geral
 
 O objetivo é extrair informações valiosas sobre o comportamento dos jogadores de Wordle, como:
 - O volume de tweets ao longo do tempo.
@@ -12,7 +12,7 @@ O objetivo é extrair informações valiosas sobre o comportamento dos jogadores
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 O script realiza as seguintes análises e visualizações:
 
@@ -41,7 +41,7 @@ O script realiza as seguintes análises e visualizações:
 
 ---
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 Para executar este script, você precisará ter o Python 3 instalado, juntamente com as seguintes bibliotecas:
 
@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 💾 Dataset
+## Dataset
 
 Este script espera um arquivo CSV chamado `tweets.csv` no mesmo diretório. O arquivo deve conter pelo menos as seguintes colunas:
 -   `tweet_date`: A data e hora em que o tweet foi postado.
@@ -67,7 +67,7 @@ Este script espera um arquivo CSV chamado `tweets.csv` no mesmo diretório. O ar
 
 ---
 
-## ⚙️ Como Usar
+## Como Usar
 
 1.  Clone este repositório:
     ```bash
@@ -86,7 +86,7 @@ Este script espera um arquivo CSV chamado `tweets.csv` no mesmo diretório. O ar
 
 ---
 
-## 📈 Exemplos de Visualizações Geradas
+## Exemplos de Visualizações Geradas
 
 O script gera várias visualizações para ilustrar os padrões encontrados, incluindo:
 
