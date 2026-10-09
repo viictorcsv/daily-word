@@ -71,7 +71,7 @@ Este script espera um arquivo CSV chamado `tweets.csv` no mesmo diretório. O ar
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/PittViic/daily-word.git
+    git clone https://github.com/viictorcsv/daily-word.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
